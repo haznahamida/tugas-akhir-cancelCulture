@@ -105,7 +105,9 @@ vocab.txt
 ## Cara Menjalankan
 
 Install dependencies: pip install -r requirements.txt
+
 Jalankan aplikasi: streamlit run app.py
+
 Atau inferensi manual: python inference_utils.py
 
 ## Acknowledgment
