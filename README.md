@@ -36,8 +36,10 @@ Cancel culture di media sosial X memicu banyak opini publik yang teksnya bersifa
 Atribut data antara lain: `full_text`, `created_at`, `favorite_count`, `retweet_count`, dll.
 
 Berikut wordcloud dari dataset tweet terkait cancel culture.
+
 ### Wordcloud Sentimen Negatif
 <img width="944" height="663" alt="image" src="https://github.com/user-attachments/assets/f2543a8f-4e5d-4a60-b773-1ce24efd3475" />
+
 ### Wordcloud Sentimen Positif
 <img width="944" height="663" alt="image" src="https://github.com/user-attachments/assets/42651e74-26d0-42a4-b584-f8b2b85d6dc8" />
 
