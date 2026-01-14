@@ -27,18 +27,26 @@ Cancel culture di media sosial X memicu banyak opini publik yang teksnya bersifa
 - 29.000 tweet terkumpul
 - 7.217 tweet dilabeli manual oleh 3 annotator
 - Distribusi:
-  - Positif: 55%
-  - Negatif: 45%
+  - Positif(mendukung gerakan cancel culture): 55%
+  - Negatif(tidak mendukung gerakan cancel culture): 45%
 
 
   <img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/f777c63a-c640-423b-8053-2d2dcb4e9f5b" />
 
   ## Contoh Data Sentimen
 
-Berikut contoh tweet yang telah melalui tahap *cleaning* dan disamarkan untuk menjaga privasi pengguna.
+Berikut adalah contoh tweet dari masing-masing kategori sentimen:
 
 ### Sentimen Positif
-Contoh kalimat yang menunjukkan dukungan terhadap fenomena cancel culture dengan alasan perbaikan industri hiburan:
+@g****n16
+Untuk entertainment industri yang lebih baik menurut gue bagus-bagus aja sih cancel culture ini. 
+Jadi artis tuh kan tujuan aslinya emang harus nunjukin bakat di bidang seni dan juga tanggung jawabnya besar karena dikenal publik.
+
+### Sentimen Negatif
+@s****w
+Dan orang-orang melakukan cancel culture hanya ikut-ikutan dari satu opini saja. 
+Itu jelas nggak baik banget, menumpahkan lewat ketikan yang jahat-jahat malah memperburuk keadaan. 
+Semuanya punya alasan. Belajarlah mendengar, belajar menahan jempol, belajar menilai dari berbagai sudut.
 
 
 Berikut wordcloud dari dataset tweet terkait cancel culture.
