@@ -30,10 +30,16 @@ Cancel culture di media sosial X memicu banyak opini publik yang teksnya bersifa
   - Positif: 55%
   - Negatif: 45%
 
+
   <img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/f777c63a-c640-423b-8053-2d2dcb4e9f5b" />
 
+  ## Contoh Data Sentimen
 
-Atribut data antara lain: `full_text`, `created_at`, `favorite_count`, `retweet_count`, dll.
+Berikut contoh tweet yang telah melalui tahap *cleaning* dan disamarkan untuk menjaga privasi pengguna.
+
+### Sentimen Positif
+Contoh kalimat yang menunjukkan dukungan terhadap fenomena cancel culture dengan alasan perbaikan industri hiburan:
+
 
 Berikut wordcloud dari dataset tweet terkait cancel culture.
 
