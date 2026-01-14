@@ -30,7 +30,16 @@ Cancel culture di media sosial X memicu banyak opini publik yang teksnya bersifa
   - Positif: 55%
   - Negatif: 45%
 
+  <img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/f777c63a-c640-423b-8053-2d2dcb4e9f5b" />
+
+
 Atribut data antara lain: `full_text`, `created_at`, `favorite_count`, `retweet_count`, dll.
+
+Berikut wordcloud dari dataset tweet terkait cancel culture.
+### Wordcloud Sentimen Negatif
+<img width="944" height="663" alt="image" src="https://github.com/user-attachments/assets/f2543a8f-4e5d-4a60-b773-1ce24efd3475" />
+### Wordcloud Sentimen Positif
+<img width="944" height="663" alt="image" src="https://github.com/user-attachments/assets/42651e74-26d0-42a4-b584-f8b2b85d6dc8" />
 
 ---
 
@@ -71,6 +80,8 @@ Parameter utama:
 ### SVM + TF-IDF
 - Akurasi: 79%
 - Performa lebih rendah pada teks informal
+
+<img width="1021" height="424" alt="image" src="https://github.com/user-attachments/assets/8cb87349-4a9b-4b4f-af65-a4a76d9f7c18" />
 
 ---
 
