@@ -17,9 +17,8 @@ Cancel culture di media sosial X memicu banyak opini publik yang teksnya bersifa
 
 ## Tujuan Penelitian
 
-- Mengklasifikasikan sentimen positif/negatif pada tweet bertema cancel culture.
-- Menguji performa IndoBERT dan membandingkannya dengan SVM + TF-IDF.
-- Mengatasi kesulitan analisis sentimen pada teks informal dan ambigu.
+- Menganalisis sentimen masyarakat terhadap gerakan cancel culture di media sosial X menggunakan model IndoBERT.
+- Mengevaluasi kinerja IndoBERT dan membandingkannya dengan metode klasifikasi berbasis SVM + TF-IDF.
 
 ---
 
