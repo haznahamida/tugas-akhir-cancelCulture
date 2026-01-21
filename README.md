@@ -26,6 +26,7 @@ Cancel culture di media sosial X memicu banyak opini publik yang teksnya bersifa
 
 - 29.000 tweet terkumpul
 - 7.217 tweet dilabeli manual oleh 3 annotator
+- Link Dataset: https://docs.google.com/spreadsheets/d/1FmqEgmIKZ51rQEmrG8Oq-6EtQV50HkT9/edit?usp=sharing&ouid=114879770870307460660&rtpof=true&sd=true
 - Distribusi:
   - Positif(mendukung gerakan cancel culture): 55%
   - Negatif(tidak mendukung gerakan cancel culture): 45%
